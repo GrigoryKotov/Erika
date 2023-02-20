@@ -1,0 +1,8 @@
+{
+  "name": "starter Workflow Demo",
+  "description": "Demo starter workfllow.",
+  "iconName": "demo-icon",
+  "categories": [
+    "Python"
+    ]
+}
